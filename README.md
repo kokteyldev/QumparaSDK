@@ -1,0 +1,2 @@
+# QumparaSDK
+Qumpara offerwall SDK.
