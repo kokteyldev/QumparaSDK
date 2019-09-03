@@ -9,20 +9,24 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
+typedef void (^QPSVirtualCurrencyCompletion)(NSString *currencyCode, NSInteger amount, NSError *error);
+
 @protocol QumparaSDKDelegate <NSObject>
 @optional
 - (void)didLoadOfferWall;
 - (void)didFailToLoadOfferWallWithError:(NSError *)error;
-- (void)didSpendVirtualCurrencyWithCode:(NSString *)currencyCode andAmound:(NSInteger)amount;
+- (void)didShowOfferWall;
+- (void)didDismissOfferWall;
 @end
 
 @interface QumparaSDK : NSObject
 + (void)startWithApplicationID:(NSString *)applicationID;
++ (void)startWithApplicationID:(NSString *)applicationID testMode:(BOOL)isTestMode;
 + (void)setDelegate:(id<QumparaSDKDelegate>)delegate;
 + (void)setAdjustID:(NSString *)adjustID;
 + (void)loadOfferwall;
 + (void)showOfferwallFromViewController:(UIViewController *)controller;
-+ (void)spendVirtualCurrency;
++ (void)spendVirtualCurrencyWithCompletion:(QPSVirtualCurrencyCompletion)completion;
 + (NSString *)SDKVersion;
 @end
 
