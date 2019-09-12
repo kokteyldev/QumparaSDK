@@ -23,6 +23,7 @@ typedef void (^QPSVirtualCurrencyCompletion)(NSString *currencyCode, NSInteger a
 + (void)startWithApplicationID:(NSString *)applicationID;
 + (void)startWithApplicationID:(NSString *)applicationID testMode:(BOOL)isTestMode;
 + (void)setDelegate:(id<QumparaSDKDelegate>)delegate;
++ (void)setUserID:(NSString *)userID;
 + (void)setAdjustID:(NSString *)adjustID;
 + (void)loadOfferwall;
 + (void)showOfferwallFromViewController:(UIViewController *)controller;
