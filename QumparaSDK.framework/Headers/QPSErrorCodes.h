@@ -33,6 +33,9 @@
 // Indicates that campaign not found.
 #define kQPSErrorCodeCampaignNotFound 78
 
+// Indicates that user id not found.
+#define kQPSErrorCodeUserIdNotFound 79
+
 // Indicates that campaign url not found.
 #define kQPSErrorCodeCampaignURLNotFound 81
 
