@@ -24,6 +24,9 @@
 // Indicates that QumparaSDKVirtualCurrencyCompletion is invalid.
 #define kQPSErrorCodeInvalidSpendVirtualCurrencyCompletion 4
 
+// Indicates that user idfa is not found.
+#define kQPSErrorCodeIDFANotFound 5
+
 // Indicates that there is no active campaign for the user.
 #define kQPSErrorCodeActiveCampaignNotFound 71
 
