@@ -1,6 +1,0 @@
-framework module QumparaSDK {
-  umbrella header "QumparaSDK.h"
-
-  export *
-  module * { export * }
-}
