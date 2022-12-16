@@ -4,56 +4,97 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/QPSErrorCodes.h</key>
+		<key>Assets.car</key>
 		<data>
-		WuHWc96aw9G1iMknDojAlP9xgao=
+		4JeBktYSX9JdclNDYH/RIL2Jd/Y=
 		</data>
-		<key>Headers/QumparaSDK.h</key>
+		<key>QPSOfferDetailV.nib</key>
 		<data>
-		Bz3FhirVWYXayBduE28DE9iTlOc=
+		Bn2la8m2CcWFmwD6ed92aJlM9hg=
 		</data>
-		<key>Info.plist</key>
+		<key>QPSOfferWallSourceCVC.nib/objects-12.3+.nib</key>
 		<data>
-		mJcte4/FBSSyKLNWNasQ0eqWiNI=
+		hN71GzLgEDJOsprWJkLSvmC35rA=
 		</data>
-		<key>Modules/module.modulemap</key>
+		<key>QPSOfferWallSourceCVC.nib/runtime.nib</key>
 		<data>
-		uIRjAR3wAfD9YEfvrAQVuYBUOds=
+		ZuLhZc0hotHPRfb1yrRVK894iPA=
+		</data>
+		<key>QPSOfferWallVC.nib</key>
+		<data>
+		FjbrZjW52TmP/AxWhrsUZcU2ON0=
+		</data>
+		<key>QPSWebViewVC.nib</key>
+		<data>
+		c8x0ySsqVPO8a+Jci/K35nRRug0=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/QPSErrorCodes.h</key>
+		<key>Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WuHWc96aw9G1iMknDojAlP9xgao=
+			4JeBktYSX9JdclNDYH/RIL2Jd/Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			adEFSeixDVxhUHWa4gtzBskvTMgzO8Ii+7SLI8JXW88=
+			Hhg5/Q+nloitweZOXl4C0Pfc7PrVb6YDjgXH2ZA2bXU=
 			</data>
 		</dict>
-		<key>Headers/QumparaSDK.h</key>
+		<key>QPSOfferDetailV.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Bz3FhirVWYXayBduE28DE9iTlOc=
+			Bn2la8m2CcWFmwD6ed92aJlM9hg=
 			</data>
 			<key>hash2</key>
 			<data>
-			mFlCKt1OiC1kIW5ia4QJc5IJt29+tuvSnQjK4xNsztw=
+			V8g3xAN2iPe2rDnxBtVSDBnbTHXoQ/6SxjdopEvNWTk=
 			</data>
 		</dict>
-		<key>Modules/module.modulemap</key>
+		<key>QPSOfferWallSourceCVC.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uIRjAR3wAfD9YEfvrAQVuYBUOds=
+			hN71GzLgEDJOsprWJkLSvmC35rA=
 			</data>
 			<key>hash2</key>
 			<data>
-			E3gAUTUuaYeBai0dNoDH5VEHrk6wv/r1wvc0ep+u4yE=
+			dlgIY13rDICETS5BvAxtPlts518uN0apZKyjdCZTb+M=
+			</data>
+		</dict>
+		<key>QPSOfferWallSourceCVC.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZuLhZc0hotHPRfb1yrRVK894iPA=
+			</data>
+			<key>hash2</key>
+			<data>
+			5+kg4mRONZDAJupj9iVsmCPnMSTlYq51rWPhnOaC37E=
+			</data>
+		</dict>
+		<key>QPSOfferWallVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FjbrZjW52TmP/AxWhrsUZcU2ON0=
+			</data>
+			<key>hash2</key>
+			<data>
+			OgCNgBQN+6sfRZ+8vr9K125Wb4dahZ7E4nsKrGgB/E0=
+			</data>
+		</dict>
+		<key>QPSWebViewVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c8x0ySsqVPO8a+Jci/K35nRRug0=
+			</data>
+			<key>hash2</key>
+			<data>
+			j8HK6+PjuVH7yLs+I25zqBAezAQauh1eIEpZp8I4T6Q=
 			</data>
 		</dict>
 	</dict>
