@@ -2,6 +2,7 @@
 Pod::Spec.new do |s|
   s.name             = 'QumparaSDK'
   s.version          = '1.2.0'
+  s.requires_arc     = true
   s.license          = { :type => 'Copyright', :text => <<-LICENSE
 									Copyright 2019
 									Nobium Bilgi Teknolojileri. 
@@ -26,7 +27,7 @@ Qumpara SDK offers digital offers for physical campaigns.
   }
 
   s.frameworks = 'AdSupport', 'WebKit'
-  cr.vendored_frameworks = 'QumparaSDK/QumparaSDK.xcframework'
-    cr.resources = ['QumparaSDK/QumparaResources.bundle']
+  s.vendored_frameworks = 'QumparaSDK/QumparaSDK.xcframework'
+  s.resources = ['QumparaSDK/QumparaResources.bundle']
   s.dependency 'QumparaAnalyticsSDK', '~> 1.0.1'
 end
