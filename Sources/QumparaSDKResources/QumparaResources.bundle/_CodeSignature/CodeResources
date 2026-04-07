@@ -6,95 +6,60 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		4JeBktYSX9JdclNDYH/RIL2Jd/Y=
+		boBCH6c1BT/RJunKHQfiTEUBe/w=
 		</data>
 		<key>QPSOfferDetailV.nib</key>
 		<data>
-		Bn2la8m2CcWFmwD6ed92aJlM9hg=
+		ohcmBjrOrpYiQslAkqzPaSEs6VQ=
 		</data>
-		<key>QPSOfferWallSourceCVC.nib/objects-12.3+.nib</key>
+		<key>QPSOfferWallSourceCVC.nib</key>
 		<data>
-		hN71GzLgEDJOsprWJkLSvmC35rA=
-		</data>
-		<key>QPSOfferWallSourceCVC.nib/runtime.nib</key>
-		<data>
-		ZuLhZc0hotHPRfb1yrRVK894iPA=
+		KMmhSpTLxdNq5eJYbtU9BRYdlIE=
 		</data>
 		<key>QPSOfferWallVC.nib</key>
 		<data>
-		FjbrZjW52TmP/AxWhrsUZcU2ON0=
+		H1HXGBSdzBL0fmSlJUFncBERUj0=
 		</data>
 		<key>QPSWebViewVC.nib</key>
 		<data>
-		c8x0ySsqVPO8a+Jci/K35nRRug0=
+		disMYHsMn+V4NJ2HbuUfqf9/mEE=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4JeBktYSX9JdclNDYH/RIL2Jd/Y=
-			</data>
 			<key>hash2</key>
 			<data>
-			Hhg5/Q+nloitweZOXl4C0Pfc7PrVb6YDjgXH2ZA2bXU=
+			7TRck9xJsjdj3jbBcJfy5aLcHWennvTMXN0y7zxcBUM=
 			</data>
 		</dict>
 		<key>QPSOfferDetailV.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Bn2la8m2CcWFmwD6ed92aJlM9hg=
-			</data>
 			<key>hash2</key>
 			<data>
-			V8g3xAN2iPe2rDnxBtVSDBnbTHXoQ/6SxjdopEvNWTk=
+			SoB9nfy/g+CIWQS92kZqv2JhtWQ9iBN8y6DARBkI4Wg=
 			</data>
 		</dict>
-		<key>QPSOfferWallSourceCVC.nib/objects-12.3+.nib</key>
+		<key>QPSOfferWallSourceCVC.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hN71GzLgEDJOsprWJkLSvmC35rA=
-			</data>
 			<key>hash2</key>
 			<data>
-			dlgIY13rDICETS5BvAxtPlts518uN0apZKyjdCZTb+M=
-			</data>
-		</dict>
-		<key>QPSOfferWallSourceCVC.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZuLhZc0hotHPRfb1yrRVK894iPA=
-			</data>
-			<key>hash2</key>
-			<data>
-			5+kg4mRONZDAJupj9iVsmCPnMSTlYq51rWPhnOaC37E=
+			2YOzhghdsUzDls4ZIvqOqDs7pTHszwZ/UhSafAuMIj4=
 			</data>
 		</dict>
 		<key>QPSOfferWallVC.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FjbrZjW52TmP/AxWhrsUZcU2ON0=
-			</data>
 			<key>hash2</key>
 			<data>
-			OgCNgBQN+6sfRZ+8vr9K125Wb4dahZ7E4nsKrGgB/E0=
+			zsXcov2UrdG3V5bBAbRaWAxvkV4fjidzwsjpQ78jiwc=
 			</data>
 		</dict>
 		<key>QPSWebViewVC.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			c8x0ySsqVPO8a+Jci/K35nRRug0=
-			</data>
 			<key>hash2</key>
 			<data>
-			j8HK6+PjuVH7yLs+I25zqBAezAQauh1eIEpZp8I4T6Q=
+			UPWouhPAVGDUu0Lz0BjMibZfKvvW4wh+q5w8CBrsrKA=
 			</data>
 		</dict>
 	</dict>

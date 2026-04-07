@@ -14,21 +14,17 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		6+VOMgv8w8KRhidYJuvd2/Su72M=
+		f9DH028U6P5RHzr/maGUqtvVm9k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		uIRjAR3wAfD9YEfvrAQVuYBUOds=
+		FxYSl/CXJ1k7Xc34QIuiWMHodTc=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Headers/QPSErrorCodes.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WuHWc96aw9G1iMknDojAlP9xgao=
-			</data>
 			<key>hash2</key>
 			<data>
 			adEFSeixDVxhUHWa4gtzBskvTMgzO8Ii+7SLI8JXW88=
@@ -36,10 +32,6 @@
 		</dict>
 		<key>Headers/QumparaSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Bz3FhirVWYXayBduE28DE9iTlOc=
-			</data>
 			<key>hash2</key>
 			<data>
 			mFlCKt1OiC1kIW5ia4QJc5IJt29+tuvSnQjK4xNsztw=
@@ -47,13 +39,9 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uIRjAR3wAfD9YEfvrAQVuYBUOds=
-			</data>
 			<key>hash2</key>
 			<data>
-			E3gAUTUuaYeBai0dNoDH5VEHrk6wv/r1wvc0ep+u4yE=
+			TKpCl3WE78oBMVl/fmE9HiDNbBbjhCGkxkVCnim80vs=
 			</data>
 		</dict>
 	</dict>
